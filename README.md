@@ -74,7 +74,7 @@
 ## ✍️ Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&border=true&quote=In%20the%20long%20run%2C%20I%20win." alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&border=true&quote=build%20fast%2C%20iterate%20faster" alt="Dev Quote"/>
 </p>
 
 ---
