@@ -10,7 +10,7 @@
 <p align="center">
   🔭 I’m currently working on <b>StayEase</b>, a full-stack web application.
   <br>
-  🌱 I’m currently solidifying my skills in <b>T3 Stack (Next.js, tRPC, Tailwind CSS, Prisma) Web Development</b>, embracing <b>TypeScript</b> for end-to-end type safety.
+  🌱 I’m currently solidifying my skills in the <b>T3 Stack (Next.js, tRPC, Tailwind CSS, Prisma)</b> for web development, and concurrently learning the <b>RAPID Stack (React, AI (PyTorch/Scikit-learn), PostgreSQL, Integration (Django, PySpark, Docker, GitHub Actions), Django)</b> for my internship at the <b>Center for AI and Smart Technologies at Batangas State University</b>, embracing <b>TypeScript</b> for end-to-end type safety.
   <br>
   👯 I’m looking to collaborate on exciting <b>High-Performance Full-stack Web Development</b> projects.
   <br>
@@ -43,6 +43,26 @@
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcn%2Fui&logoColor=white" alt="shadcn/ui"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### Current Learning: RAPID Stack (Internship Focus)
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <!-- Data Pipeline -->
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark (PySpark)"/>
+  <!-- DevOps/Integration -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ### Familiar With: MERN Stack
