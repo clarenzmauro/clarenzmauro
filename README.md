@@ -8,9 +8,9 @@
 ## 🚀 About Me
 
 <p align="center">
-  🔭 I’m currently working on <b>StayEase</b>, a full-stack web application.
+  🔭 I’m currently working on <b>Sir Pickle Index</b>, a full-stack web application.
   <br>
-  🌱 I’m currently solidifying my skills in the <b>T3 Stack (Next.js, tRPC, Tailwind CSS, Prisma)</b> for web development, and concurrently learning the <b>RAPID Stack (React, AI (PyTorch/Scikit-learn), PostgreSQL, Integration (Django, PySpark, Docker, GitHub Actions), Django)</b> for my internship at the <b>Center for AI and Smart Technologies at Batangas State University</b>, embracing <b>TypeScript</b> for end-to-end type safety.
+  🌱 I’m currently solidifying my skills in the <b>RAPID Stack (React, AI (PyTorch/Scikit-learn), PostgreSQL, Integration (Django, PySpark, Docker, GitHub Actions), Django)</b> for my internship at the <b>Center for AI and Smart Technologies at Batangas State University</b>.
   <br>
   👯 I’m looking to collaborate on exciting <b>High-Performance Full-stack Web Development</b> projects.
   <br>
@@ -33,18 +33,6 @@
 
 ## 💻 Tech Stack
 
-### Current Focus: T3 Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcn%2Fui&logoColor=white" alt="shadcn/ui"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
 ### Current Learning: RAPID Stack (Internship Focus)
 
 <p align="center">
@@ -65,13 +53,19 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### Familiar With: MERN Stack
+### Arsenal:
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcn%2Fui&logoColor=white" alt="shadcn/ui"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 ### Core Technologies
@@ -88,15 +82,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarenzmauro&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=clarenzmauro&theme=github_dark&show_icons=true&hide_border=false" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=clarenzmauro&theme=highcontrast" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarenzmauro&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages"/>
 </p>
 
 ---
