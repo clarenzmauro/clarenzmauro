@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clarenz Mauro</h1>
 <p align="center">
-  A full-stack web developer specializing in the <b>T3 Stack</b> with a strong focus on building robust, scalable, and high-performance web applications.
+  A full-stack web developer specializing in the <b>T3 Stack</b> with a strong focus on building web applications.
 </p>
 
 ---
